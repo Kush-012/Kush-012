@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kush Mehta</h1>
+<h1 align="center">Hi, I'm Kush Mehta</h1>
 <p align="center">
  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&center=true&vCenter=true&width=550&lines=Software+Engineer;MERN+Stack+Developer;Java+Developer;Tech+Enthusiast">
