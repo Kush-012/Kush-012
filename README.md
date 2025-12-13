@@ -7,11 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **Web technologies**
+-  I’m currently learning **Web technologies**
 
-- 📫 How to reach me **kushmehta124@gmail.com**
-
-- 📄 Know about my experiences [https://tinyurl.com/kush0125](https://tinyurl.com/kush0125)
+-  How to reach me **kushmehta124@gmail.com**
+- Know More About Me [https://kush-012.github.io/kush/]
+-  Know about my experiences [https://tinyurl.com/kush0125](https://tinyurl.com/kush0125)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
