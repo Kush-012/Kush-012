@@ -10,15 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Kush-012
-           snake_color: "#06b6d4"
-          dot_color: "#1e293b"           
-            highlight_color: "#06b6d4"
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+     - uses: Platane/snk@v3
+  with:
+    github_user_name: Kush-012
+    outputs: |
+      dist/github-contribution-grid-snake.svg?color_snake=#22c55e&color_dots=#cbd5e1,#86efac,#4ade80,#22c55e,#16a34a
+      dist/github-contribution-grid-snake-dark.svg?color_snake=#22c55e&color_dots=#0f172a,#14532d,#166534,#22c55e,#4ade80
+
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
