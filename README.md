@@ -41,13 +41,14 @@
 </p> 
 
 
+##  Code So Hot, Even a Snake Can’t Resist
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Kush-012/Kush-012/output/github-contribution-grid-snake-dark.svg">
-   <img src="https://raw.githubusercontent.com/Kush-012/Kush-012/output/github-contribution-grid-snake.svg?v=2">
-
+    <img alt="github contribution snake"
+      src="https://raw.githubusercontent.com/Kush-012/Kush-012/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
