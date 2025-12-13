@@ -41,9 +41,10 @@
 </p> 
 
 
-##  Code So Hot, Even a Snake Can’t Resist
+
 
 <p align="center">
+ ##  Code So Hot, Even a Snake Can’t Resist
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Kush-012/Kush-012/output/github-contribution-grid-snake-dark.svg">
