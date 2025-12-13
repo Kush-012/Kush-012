@@ -9,9 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    
       - uses: Platane/snk@v3
         with:
           github_user_name: Kush-012
+           snake_color: "#22c55e"
+          dot_color: "#1e293b"           
+            highlight_color: "#0ea5e9"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
