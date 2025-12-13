@@ -6,8 +6,8 @@
 </p>
 
 -  I’m currently learning & building with Web Technologies
-- Explore my Portfolio [Website](https://kush-012.github.io/kush/)
--  View my experience & journey: [Resume](https://tinyurl.com/kush0125)
+- Explore my [Portfolio Website](https://kush-012.github.io/kush/)
+-  View my [Experience & Journey](https://tinyurl.com/kush0125)
 -  How to reach me **kushmehta124@gmail.com**
 
 
@@ -40,6 +40,13 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,python" />
 </p> 
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kush-012/Kush-012/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kush-012/Kush-012/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/Kush-012/Kush-012/blob/output/github-contribution-grid-snake-dark.svg">
+</picture> 
 
 
 
