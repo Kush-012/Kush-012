@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<img src="/coding-1-47.svg" width="200" height="180" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp6M2N6ZmYxYnU0ODRpMDltMnNsM3h0cGN6b3g5YmR3NWd1Z21rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" height="190" align="right">
 
 -  I’m currently learning & building with Web Technologies
 - Explore my [Portfolio Website](https://kush-012.github.io/kush/)
@@ -16,11 +16,11 @@
 
 
 ## Connect with me:
-<p align="left">
+
 <a href="https://linkedin.com/in/kushm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushm1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kushm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kushm1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kushmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushmehta" height="30" width="40" /></a>
-</p>
+
 
 
 
