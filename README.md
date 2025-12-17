@@ -5,6 +5,8 @@
   </a>
 </p>
 
+<img src="/coding-1-47.svg" width="200" height="180" align="right">
+
 -  I’m currently learning & building with Web Technologies
 - Explore my [Portfolio Website](https://kush-012.github.io/kush/)
 -  View my [Experience & Journey](https://tinyurl.com/kush0125)
@@ -12,7 +14,8 @@
 
 
 
-<h2 align="left">Connect with me:</h2>
+
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/kushm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushm1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kushm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kushm1" height="30" width="40" /></a>
