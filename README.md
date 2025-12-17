@@ -5,13 +5,26 @@
   </a>
 </p>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp6M2N6ZmYxYnU0ODRpMDltMnNsM3h0cGN6b3g5YmR3NWd1Z21rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" height="190" align="right" >
+<table align="center">
+  <tr>
+    <td width="85%" valign="top">
 
--  I’m currently learning & building with Web Technologies
-- Explore my [Portfolio Website](https://kush-012.github.io/kush/)
--  View my [Experience & Journey](https://tinyurl.com/kush0125)
--  How to reach me **kushmehta124@gmail.com**
-<br>
+- I’m currently learning & building with Web Technologies  
+- Explore my [Portfolio Website](https://kush-012.github.io/kush/)  
+- View my [Experience & Journey](https://tinyurl.com/kush0125)  
+- How to reach me **kushmehta124@gmail.com**
+
+    </td>
+
+    <td width="70%" align="center">
+      <img 
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp6M2N6ZmYxYnU0ODRpMDltMnNsM3h0cGN6b3g5YmR3NWd1Z21rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
+        width="200"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ## Connect with me:
 
