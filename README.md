@@ -11,7 +11,7 @@
 
 - I’m currently learning & building with Web Technologies  
 - Explore my [Portfolio Website](https://kush-012.github.io/kush/)  
-- View my [Experience & Journey](https://tinyurl.com/kush0125)  
+- View my [Experience & Journey](https://drive.google.com/file/d/1YG34F7UPuRE-Mh0ISK7190X1VuL-XIUw/view?usp=sharing)  
 - How to reach me **kushmehta124@gmail.com**
 
     </td>
