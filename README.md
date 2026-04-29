@@ -53,6 +53,32 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,python" />
 </p> 
 
+## Achievements
+
+<div align="center">
+
+| &nbsp;&nbsp;🥇&nbsp;&nbsp; Achievement | 📋 Details |
+|:---:|:---|
+| 📜 **Published Patent** |  |
+| 🎓 **Dean's List** | Awarded for academic excellence — Top **10%** of the college |
+| 💻 **Vibecode Hackathon** | Secured **Top 200** position competing against thousands of developers |
+| 🧩 **300+ Problems Solved** | Solved **300+** coding challenges across LeetCode, GFG & more |
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📜%20Published%20Patent-FF6B35?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓%20Dean's%20List-FFD700?style=for-the-badge&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏅%20Top%2010%25%20College-4CAF50?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/💻%20Top%20200%20Vibecode-9C27B0?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🧩%20300%2B%20Problems-FFA116?style=for-the-badge&logoColor=white" />
+</p>
 
 
  <h2 align="center">Code So Hot, Even a Snake Can’t Resist 🐍</h2>
